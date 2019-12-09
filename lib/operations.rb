@@ -21,6 +21,8 @@ def not_safe?(speed)
 	else
 	  return false
 	end
+	
+	binding.pry
 end
 	
 
